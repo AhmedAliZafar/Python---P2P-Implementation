@@ -10,8 +10,8 @@ To understand better, on how it works please bear the following points in your m
 
 >> The primary purpose of this repository is to create a completely secure communication channel between two computers/users. These scripts are written in order to provide a service free of Adtrackers or behaviour recognition algorithms. (which all the IT giants like Apple, Google or Microsoft unfortunately do use extensively)
 
->> The security or decryption key will be generated in pairs that you can share to enable communication. Please note that the system will not keep any record of the keys whatsoever so there is no support mechanism if you lose the key. You will just have to create a new key-pair if you lose one pair.
+>> The security or decryption key will be generated in pairs which you can share to enable communication. Please note that the system will not keep any record of the keys whatsoever so there is no support mechanism if you lose the key. You will just have to create a new key-pair if you lose one pair.
 
->>The scripts are designed to encrypt information before sending packets or information out so you will have impeccable security even if your OS security is breached. The scripts are disgned to encapsulate sending data (text, voice, video, image, file etc) before the network headers are put in place by the OS
+>>The scripts are designed to encrypt information before sending packets or information out so you will have impeccable security even if your OS security is breached. The scripts are designed to encapsulate sending data (text, voice, video, image, file etc) before the network headers are put in place by the OS
 
-Last but not least Have fun with it and create your own versions of it ;-)
+Last but not least Have fun with it and create your own versions of it. I do not want to create a software and have all the glory for myself ;-)
