@@ -8,7 +8,7 @@ To understand better, on how it works please bear the following points in your m
 
 >> All the rest of the files will provide support and various functionality like audio, video, emoji etc. These files can be removed or altered however the user wishes to customize their usage.
 
->> The primary purpose of this repository is to create a completely secure communication channel between two computers/users. These scripts are written in order to provide a service free of Adtrackers or behaviour recognition algorithms. (which all the IT giants like Apple, Google or Microsoft unfortunately do)
+>> The primary purpose of this repository is to create a completely secure communication channel between two computers/users. These scripts are written in order to provide a service free of Adtrackers or behaviour recognition algorithms. (which all the IT giants like Apple, Google or Microsoft unfortunately do use extensively)
 
 >> The security or decryption key will be generated in pairs that you can share to enable communication. Please note that the system will not keep any record of the keys whatsoever so there is no support mechanism if you lose the key. You will just have to create a new key-pair if you lose one pair.
 
